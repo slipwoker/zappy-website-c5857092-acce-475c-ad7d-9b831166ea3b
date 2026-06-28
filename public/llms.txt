@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-c5857092.zappy5.app
+https://example.com
 ברוכים הבאים לעולם המתוק והפרוע של קקי בטעמים – סוכריות מעוצבות בטירוף בטעמים מפתיעים שכל ביס מהן הוא חוויה מצחיקה. היכנסו עכשיו וגלו את הטעם שכולם מדברים עליו!
 
 ### ניסיון
-https://-c5857092.zappy5.app/experience
+https://example.com/experience
 צללו לחוויית טעימות פרועה עם סוכריות הנובלטי שלנו – מרקמים מפתיעים, טעמים נועזים והרבה הומור. גלו איך הופכים חטיף לחוויה בלתי נשכחת שמדגדגת את החושים. בואו להתנסות!
 
 ### אודות
-https://-c5857092.zappy5.app/about
+https://example.com/about
 הכירו את הצוות המטורלל שהחליט להפוך רעיון הזוי למפעל מתוק של צחוק וטעם. קקי בטעמים נולד מאהבה לאוכל, הומור וקצת חוצפה. קראו את הסיפור שלנו והצטרפו למהפכה המתוקה!
 
 ### צור קשר
-https://-c5857092.zappy5.app/contact
+https://example.com/contact
 רוצים לשתף אותנו בחוויה, להזמין לאירוע או סתם להגיד שלום? צרו קשר עם צוות קקי בטעמים – אנחנו תמיד זמינים לשיחה על הדבר המתוק והמוזר הזה. כתבו לנו עכשיו ונתחיל להשתולל יחד!
 
 ### Products
-https://-c5857092.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - קקי בטעמים
 
 ### Cart
-https://-c5857092.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-c5857092.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-c5857092.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-c5857092.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-c5857092.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-c5857092.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - קקי בטעמים
 
 ### Category
-https://-c5857092.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - קקי בטעמים
 
 ### תודה שפניתם אלינו
-https://-c5857092.zappy5.app/thank-you
+https://example.com/thank-you
 קקי בטעמים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c5857092.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c5857092.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c5857092.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-c5857092.zappy5.app/sitemap.xml
-- Robots: https://-c5857092.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-c5857092.zappy5.app/llms-full.txt
-- Products (JSON): https://-c5857092.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-c5857092.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
